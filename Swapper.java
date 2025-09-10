@@ -1,3 +1,5 @@
+//constructor to initialize values and method to swap them
+
 public class Swapper {
 
     int a, b;
