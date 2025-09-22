@@ -1,5 +1,5 @@
 /*
- * Arguments Parameters in method
+ * Arguments Parameters in method code.
  */
 
 public class MehtodParameterized {
